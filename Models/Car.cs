@@ -6,10 +6,11 @@ namespace Models
         public int FuelCapacity { get; set; }
         public int CurrentFuel { get; set; }
         public int FuelFor1km { get; set; }
+        public int Distance { get; set; }
 
         public override void Drive()
         {
-            if (CurrentFuel>=CurrentFuel*FuelFor1km)
+            if (CurrentFuel>= Distance * FuelFor1km)
             {
                 CurrentFuel -= FuelFor1km;
                 Millage++;
