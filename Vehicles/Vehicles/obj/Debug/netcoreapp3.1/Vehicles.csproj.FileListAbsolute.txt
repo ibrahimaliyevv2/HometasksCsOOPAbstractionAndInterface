@@ -1,0 +1,16 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/bin/Debug/netcoreapp3.1/Vehicles.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/bin/Debug/netcoreapp3.1/Vehicles.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/bin/Debug/netcoreapp3.1/Vehicles.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/bin/Debug/netcoreapp3.1/Vehicles.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/bin/Debug/netcoreapp3.1/Vehicles.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/bin/Debug/netcoreapp3.1/Models.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.csproj.CopyComplete
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPAbstractionAndInterface/Vehicles/Vehicles/obj/Debug/netcoreapp3.1/Vehicles.genruntimeconfig.cache
